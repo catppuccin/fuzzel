@@ -19,19 +19,19 @@
 
 <details>
 <summary>🌻 Latte</summary>
-<img src="https://raw.githubusercontent.com/catppuccin/fuzzel/main/assets/previews/latte.webp"/>
+<img src="assets/previews/latte.webp"/>
 </details>
 <details>
 <summary>🪴 Frappé</summary>
-<img src="https://raw.githubusercontent.com/catppuccin/fuzzel/main/assets/previews/frappe.webp"/>
+<img src="assets/previews/frappe.webp"/>
 </details>
 <details>
 <summary>🌺 Macchiato</summary>
-<img src="https://raw.githubusercontent.com/catppuccin/fuzzel/main/assets/previews/macchiato.webp"/>
+<img src="assets/previews/macchiato.webp"/>
 </details>
 <details>
 <summary>🌿 Mocha</summary>
-<img src="https://raw.githubusercontent.com/catppuccin/fuzzel/main/assets/previews/mocha.webp"/>
+<img src="assets/previews/mocha.webp"/>
 </details>
 
 ## Usage
