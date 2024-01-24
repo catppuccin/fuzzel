@@ -6,32 +6,32 @@
 </h3>
 
 <p align="center">
-	<a href="https://github.com/catpuccin/fuzzel/stargazers"><img src="https://img.shields.io/github/stars/catpuccin/fuzzel?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-	<a href="https://github.com/catpuccin/fuzzel/issues"><img src="https://img.shields.io/github/issues/catpuccin/fuzzel?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-	<a href="https://github.com/catpuccin/fuzzel/contributors"><img src="https://img.shields.io/github/contributors/catpuccin/fuzzel?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/fuzzel/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/fuzzel?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/fuzzel/issues"><img src="https://img.shields.io/github/issues/catppuccin/fuzzel?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/fuzzel/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/fuzzel?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/catppuccin/fuzzel/main/assets/previews/preview.webp"/>
+	<img src="assets/preview.webp"/>
 </p>
 
 ## Previews
 
 <details>
 <summary>🌻 Latte</summary>
-<img src="assets/previews/latte.webp"/>
+<img src="assets/latte.webp"/>
 </details>
 <details>
 <summary>🪴 Frappé</summary>
-<img src="assets/previews/frappe.webp"/>
+<img src="assets/frappe.webp"/>
 </details>
 <details>
 <summary>🌺 Macchiato</summary>
-<img src="assets/previews/macchiato.webp"/>
+<img src="assets/macchiato.webp"/>
 </details>
 <details>
 <summary>🌿 Mocha</summary>
-<img src="assets/previews/mocha.webp"/>
+<img src="assets/mocha.webp"/>
 </details>
 
 ## Usage
