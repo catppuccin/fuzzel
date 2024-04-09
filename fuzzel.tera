@@ -1,0 +1,19 @@
+---
+whiskers:
+  version: 2.1.0
+  matrix:
+    - flavor
+    - accent
+  filename: "themes/{{flavor.identifier}}/{{accent}}.ini"
+opacityBg: "dd"
+opacity0: "ff"
+---
+{%- set palette = flavor.colors -%}
+[colors]
+background={{ palette.base.hex }}{{ opacityBg }}
+text={{ palette.text.hex }}{{ opacity0 }}
+match={{ palette[accent].hex }}{{ opacity0 }}
+selection={{ palette.surface2.hex }}{{ opacity0 }}
+selection-match={{ palette[accent].hex }}{{ opacity0 }}
+selection-text={{ palette.text.hex }}{{ opacity0 }}
+border={{ palette.lavender.hex }}{{ opacity0 }}
