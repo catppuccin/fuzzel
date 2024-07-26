@@ -54,7 +54,10 @@
 
 ## 💝 Thanks to
 
-- [tetov](https://tetov.se/)
+- [Anton Tetov](https://tetov.se/)
+- [Mark Stosberg](https://mark.stosberg.com/)
+- [Anomalocaridid](https://github.com/Anomalocaridid)
+- [uncenter](https://uncenter.dev/)
 
 <p align="center">
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
