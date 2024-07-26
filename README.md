@@ -38,11 +38,12 @@
 
 1. Open your `fuzzel.ini` file, found in `$XDG_CONFIG_HOME/fuzzel/`
 (defaulting to `$HOME/.config/fuzzel/fuzzel.ini` if `$XDG_CONFIG_HOME` is unset).
-2. Remove existing `[color]` section if there is one.
-3.
-  - For Fuzzel >= 1.10, Add `include=<path-to-your-theme-file>` in the main section scope of `fuzzel.ini`
-  - For Fuzzel < 1.10, insert the contents of one of the theme files in `./themes`
-4. Invoke `fuzzel` using a keybinding or from the terminal.
+
+1. Remove existing `[color]` section if there is one.
+1. Include the flavor and accent combination of your choice from [`themes/`](./themes/) into your 
+   configuration file using `include=<path-to-your-theme-file>` in the main section scope of `fuzzel.ini`.
+   (if you are using Fuzzel >= 1.10) or copy the contents of one of the files (if you are using Fuzzel < 1.10).
+1. Invoke `fuzzel` using a keybinding or from the terminal.
 
 <!-- this section is optional -->
 ## 🙋 FAQ
@@ -54,8 +55,6 @@
 ## 💝 Thanks to
 
 - [tetov](https://tetov.se/)
-
-&nbsp;
 
 <p align="center">
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
