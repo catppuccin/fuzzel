@@ -38,9 +38,11 @@
 
 1. Open your `fuzzel.ini` file, found in `$XDG_CONFIG_HOME/fuzzel/`
 (defaulting to `$HOME/.config/fuzzel/fuzzel.ini` if `$XDG_CONFIG_HOME` is unset).
-1. Remove existing `[color]` section if there is one.
-1. Insert the contents of one of the theme files in `./themes`
-1. Invoke `fuzzel` using a keybinding or from the terminal.
+2. Remove existing `[color]` section if there is one.
+3.
+  - For Fuzzel >= 1.10, Add `include=<path-to-your-theme-file>` in the main section scope of `fuzzel.ini`
+  - For Fuzzel < 1.10, insert the contents of one of the theme files in `./themes`
+4. Invoke `fuzzel` using a keybinding or from the terminal.
 
 <!-- this section is optional -->
 ## 🙋 FAQ
