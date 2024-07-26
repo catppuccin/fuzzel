@@ -41,7 +41,7 @@
 
 1. Remove existing `[color]` section if there is one.
 1. Include the flavor and accent combination of your choice from [`themes/`](./themes/) into your 
-   configuration file using `include=<path-to-your-theme-file> in the main section scope of `fuzzel.ini`.
+   configuration file using `include=<path-to-your-theme-file>` in the main section scope of `fuzzel.ini`.
    (if you are using Fuzzel >= 1.10) or copy the contents of one of the files (if you are using Fuzzel < 1.10).
 1. Invoke `fuzzel` using a keybinding or from the terminal.
 
