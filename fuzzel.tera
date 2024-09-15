@@ -11,8 +11,11 @@ opacity0: "ff"
 [colors]
 background={{ base.hex }}{{ opacityBg }}
 text={{ text.hex }}{{ opacity0 }}
+prompt={{ subtext1.hex }}{{ opacity0 }}
+placeholder={{ overlay1.hex }}{{ opacity0 }}
+input={{ text.hex }}{{ opacity0 }}
 match={{ flavor.colors[accent].hex }}{{ opacity0 }}
 selection={{ surface2.hex }}{{ opacity0 }}
 selection-match={{ flavor.colors[accent].hex }}{{ opacity0 }}
 selection-text={{ text.hex }}{{ opacity0 }}
-border={{ lavender.hex }}{{ opacity0 }}
+border={{ flavor.colors[accent].hex }}{{ opacity0 }}
